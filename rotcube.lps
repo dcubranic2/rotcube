@@ -7,6 +7,7 @@
       <Unit>
         <Filename Value="rotcube.lpr"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="12"/>
         <CursorPos Y="19"/>
         <UsageCount Value="205"/>
@@ -18,7 +19,6 @@
         <ComponentName Value="Form1"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
         <CursorPos X="95" Y="12"/>
         <UsageCount Value="205"/>
         <Loaded Value="True"/>
@@ -184,7 +184,7 @@
         <EditorIndex Value="18"/>
         <TopLine Value="10"/>
         <CursorPos X="11" Y="37"/>
-        <UsageCount Value="82"/>
+        <UsageCount Value="86"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
